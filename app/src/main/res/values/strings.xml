@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScreenPilot AI</string>
+    <string name="accessibility_service_label">ScreenPilot AI — Управление экраном</string>
+    <string name="accessibility_service_description">Позволяет AI-агенту анализировать экран (скриншот и элементы интерфейса) и выполнять тапы, свайпы, ввод текста и навигацию по вашей команде. Можно остановить в любой момент плавающей кнопкой СТОП.</string>
+</resources>
